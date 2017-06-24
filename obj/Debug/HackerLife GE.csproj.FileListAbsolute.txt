@@ -1,0 +1,8 @@
+c:\users\tudor\documents\visual studio 2017\Projects\HackerLife GE\HackerLife GE\bin\Debug\HackerLife GE.exe.config
+c:\users\tudor\documents\visual studio 2017\Projects\HackerLife GE\HackerLife GE\bin\Debug\HackerLife GE.exe
+c:\users\tudor\documents\visual studio 2017\Projects\HackerLife GE\HackerLife GE\bin\Debug\HackerLife GE.pdb
+c:\users\tudor\documents\visual studio 2017\Projects\HackerLife GE\HackerLife GE\obj\Debug\HackerLife GE.csprojResolveAssemblyReference.cache
+c:\users\tudor\documents\visual studio 2017\Projects\HackerLife GE\HackerLife GE\obj\Debug\HackerLife_GE.Properties.Resources.resources
+c:\users\tudor\documents\visual studio 2017\Projects\HackerLife GE\HackerLife GE\obj\Debug\HackerLife GE.csproj.GenerateResource.Cache
+c:\users\tudor\documents\visual studio 2017\Projects\HackerLife GE\HackerLife GE\obj\Debug\HackerLife GE.exe
+c:\users\tudor\documents\visual studio 2017\Projects\HackerLife GE\HackerLife GE\obj\Debug\HackerLife GE.pdb
